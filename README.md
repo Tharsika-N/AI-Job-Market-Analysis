@@ -51,7 +51,7 @@ This project explores a dataset of 1,500 AI job postings across 14 countries. Th
 ---
 
 ## 🛠️ Tools & Technologies
-Python • NumPy • Pandas • Scikit-learn • FactorAnalyzer • Matplotlib  
+Python • NumPy • Pandas • Scikit-learn • FactorAnalyzer • Matplotlib  • Seaborn
 
 ---
 
